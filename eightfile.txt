@@ -4,3 +4,6 @@ addind some code to projectk
 
 
 so that jenkins can detect new code and do the build
+
+
+and ask jenins o check update was done in git
